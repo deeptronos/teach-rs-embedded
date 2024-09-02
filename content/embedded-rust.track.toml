@@ -1,0 +1,4 @@
+name = "Embedded Rust"
+modules = [
+    'mods/H-embedded-rust/mod.toml'
+]

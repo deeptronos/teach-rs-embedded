@@ -1,0 +1,8 @@
+name = "Embedded Rust"
+description = "An introductory course on microcontroller-based embedded systems that uses Rust as the teaching language rather than the usual C/C++. Use a micro::bit v2 to follow along."
+
+[[units]]
+name = "Lorem topic"
+topics = [
+    "topics/lorem/topic.toml",
+]
