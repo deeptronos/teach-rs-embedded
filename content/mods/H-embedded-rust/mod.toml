@@ -3,6 +3,8 @@ description = "An introductory course on microcontroller-based embedded systems 
 
 [[units]]
 name = "Lorem topic"
-topics = [
-    "topics/lorem/topic.toml",
-]
+topics = ["topics/lorem/topic.toml"]
+
+[[units]]
+name = "Background"
+topics = ["topics/background/topic.toml"]
