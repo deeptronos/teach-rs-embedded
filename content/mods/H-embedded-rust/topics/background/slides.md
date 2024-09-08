@@ -2,7 +2,7 @@
 layout: cover
 ---
 
-# Embedded Rust - Background
+# Background
 
 ---
 layout: default

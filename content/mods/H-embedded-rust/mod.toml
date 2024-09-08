@@ -8,3 +8,8 @@ topics = ["topics/lorem/topic.toml"]
 [[units]]
 name = "Background"
 topics = ["topics/background/topic.toml"]
+
+
+[[units]]
+name = "Requirements"
+topics = ["topics/hardware-reqs/topic.toml"]
