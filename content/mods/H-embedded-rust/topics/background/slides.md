@@ -64,5 +64,15 @@ This question is largely beyond the scope of this course, but the most useful ad
 
 - C ecosystem is more mature.
 - Off-the-shelf solutions for several problems already exist.
-  - Commercial Real Time Operating Systems (RTOS) are available in C.
-  - There aren't any commercial, production-grafde RTOSes in Rust (as of this writing) so you have to either make one yourself or try the ones that are in development. These can be found in the [Awesome Embedded Rust](https://github.com/rust-embedded/awesome-embedded-rust#real-time-operating-system-rtos) repository.
+- Commercial Real Time Operating Systems (RTOS) are available in C.
+- There aren't any commercial, production-grafde RTOSes in Rust (as of this writing) so you have to either make one yourself or try the ones that are in development. These can be found in the [Awesome Embedded Rust](https://github.com/rust-embedded/awesome-embedded-rust#real-time-operating-system-rtos) repository.
+
+---
+# Summary
+- A microcontroller provides many of the facilities of a larger computer within a single piece of hardware.
+- Compared to a traditional computer, a microcontroller has its own strengths and weaknesses:
+  - Lower cost and power consumption.
+  - Greater responsiveness and reliability.
+  - Lower throughput.
+  - Fewer computational resources (processors/memory/etc.)
+  - Less robust featureset (poor floating point support, etc.)
