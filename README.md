@@ -1,3 +1,8 @@
+# Embedded Course
+## TODO
+port Book codebase as exercises/etc. to teach-rs.
+see: [here](https://docs.rust-embedded.org/discovery-mb2/03-setup/index.html#this-repository)
+
 # Teach-rs
 
 ![Teach-rs](https://tweedegolf.nl/images/teach-rs-logo.png)

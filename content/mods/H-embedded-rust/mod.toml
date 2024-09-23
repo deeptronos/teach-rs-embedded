@@ -13,3 +13,7 @@ topics = ["topics/background/topic.toml"]
 [[units]]
 name = "Requirements"
 topics = ["topics/hardware-reqs/topic.toml"]
+
+[[units]]
+name = "Setup"
+topics = ["topics/env-setup/topic.toml"]
