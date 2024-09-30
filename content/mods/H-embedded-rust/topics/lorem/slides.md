@@ -16,3 +16,6 @@ layout: default
 - They can be used to present a lot of information concisely
 
 *Learning common Rust patterns makes understanding new code easier*
+<!--
+This is a lecture note!
+-->
